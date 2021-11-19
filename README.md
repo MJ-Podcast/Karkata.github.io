@@ -6,7 +6,7 @@ This is an easy-to-customize personal portfolio template that was created with H
 
 # 👇Demo
 
-<a href="https://personalportfoliov1.netlify.app/">LINK</a>
+<a href="https://github.com/MJ-Podcast/Karkata.github.io">LINK</a>
 
 # 📋Features
 
@@ -31,7 +31,7 @@ You can clone or fork this repo as a theme for your portfolio site. Because it d
 - Fork and Clone the repository
 
 ```
-https://github.com/devpuskar/Personal-Portfolio-v1.git
+https://github.com/MJ-Podcast/Karkata.github.io
 ```
 
 - Go inside the main repository
