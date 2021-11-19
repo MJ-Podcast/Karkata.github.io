@@ -31,13 +31,7 @@ You can clone or fork this repo as a theme for your portfolio site. Because it d
 - Fork and Clone the repository
 
 ```
-https://github.com/MJ-Podcast/Karkata.github.io
-```
-
-- Go inside the main repository
-
-```
-$ cd Personal-Portfolio-v1
+https://github.com/MJ-Podcast/Karkata.github.io.git
 ```
 
 - Modify `index.html` to change the names and links to point at your pages.
