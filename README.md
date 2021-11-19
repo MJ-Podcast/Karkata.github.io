@@ -6,7 +6,7 @@ This is an easy-to-customize personal portfolio template that was created with H
 
 # 👇Demo
 
-<a href="https://github.com/MJ-Podcast/Karkata.github.io">LINK</a>
+<a href="https://mj-podcast.github.io/Karkata.github.io/">LINK</a>
 
 # 📋Features
 
